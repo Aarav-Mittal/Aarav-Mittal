@@ -33,7 +33,7 @@
 | [**PyGame Arcade**](https://github.com/Aarav-Mittal/PyGame-Projects) | Collection of classic 2D games (Snake, Dino Runner) built from scratch — covering sprite animation, collision detection, and event handling. |
 
 ---
-
+<!--
 ## GitHub Stats
 
 <div align="center">
@@ -43,7 +43,7 @@
 </div>
 
 ---
-
+-->
 ## Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/aarav-mittal2007) &nbsp;·&nbsp; [Email](mailto:zoom2aarav@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Aarav-Mittal)
