@@ -37,10 +37,10 @@
 ## Work Samples & Gameplay
 
 ### 🕹️ PyGame Arcade — Live Demos
-
+<!--
 > **How to add your gameplay GIFs:**
 > Record your screen while playing → convert to `.gif` using [ScreenToGif](https://www.screentogif.com/) or [ShareX](https://getsharex.com/) → save both files as `assets/pixel_runner_demo.gif` and `assets/snake_demo.gif` in this repo → the embeds below will render automatically.
-
+-->
 <table>
   <tr>
     <td align="center" width="50%">
@@ -71,12 +71,13 @@
 &nbsp;
 
 ---
-
+<!--
 ### 🎮 God's Hand — TechSolstice Game Jam
 
 > **How to add media:** Save a screenshot or screen-recording as `assets/gods_hand_preview.png` (or `.gif` / `.mp4`) in this repo and update the path below.
 
-<!-- REPLACE: update src to assets/gods_hand_preview.png once you have a screenshot -->
+
+
 <div align="center">
   <img
     src="https://placehold.co/860x400/0d1117/a371f7?text=📸+God%27s+Hand+—+Screenshot+%2F+Gameplay+Video%0A%0AReplace+with+assets%2Fgods_hand_preview.png"
@@ -100,7 +101,7 @@
 
 > **How to add media:** Export a gameplay clip or screenshot from Unreal Engine → save as `assets/desert_hunt_preview.png` (or `.gif` / `.mp4`) → update the path below.
 
-<!-- REPLACE: update src to assets/desert_hunt_preview.png once you have footage -->
+
 <div align="center">
   <img
     src="https://placehold.co/860x400/0d1117/3fb950?text=🎬+Desert+Hunt+—+Unreal+Engine+Gameplay%0A%0AReplace+with+assets%2Fdesert_hunt_preview.png"
@@ -125,7 +126,7 @@
 
 > **How to add media:** Save a demo screenshot or clip of the recognition system in action as `assets/face_recognition_demo.png` → update the path below.
 
-<!-- REPLACE: update src to assets/face_recognition_demo.png once you have a screenshot -->
+
 <div align="center">
   <img
     src="https://placehold.co/860x400/0d1117/f78166?text=📷+Face+Recognition+System+—+Live+Demo%0A%0AReplace+with+assets%2Fface_recognition_demo.png"
@@ -137,9 +138,9 @@
 </div>
 
 &nbsp;
-
+-->
 ---
-
+<!--
 ## GitHub Stats
 
 <div align="center">
@@ -149,7 +150,7 @@
 </div>
 
 ---
-
+-->
 ## Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/aarav-mittal2007) &nbsp;·&nbsp; [Email](mailto:zoom2aarav@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Aarav-Mittal)
